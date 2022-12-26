@@ -32,16 +32,16 @@ Users should be able to:
 
 Below is a screenshot of the desktop version of this project.
 
-![](images/desktopVersion.png)
+![](images/screenshotDesktop.png)
 
 Below is a screenshot of the mobile version of this project.
 
-![](images/mobileVersion.png)
+![](images/screenshotMobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sidi-Ali/comingSoon)
-- Live Site URL: [Add live site URL here](https://sidi-ali.github.io/comingSoon/)
+- [Solution URL](https://github.com/Sidi-Ali/comingSoon)
+- [Live Site URL](https://sidi-ali.github.io/comingSoon/)
 
 ## My process
 

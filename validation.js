@@ -11,6 +11,6 @@ email.addEventListener("invalid", function(event){
       document.querySelector("form img").classList.add("showError");
       document.getElementById("err1").classList.add("showError");
       document.querySelector("form").classList.remove("email-div-error");
-    }, 5000);
+    }, 4000);
   }
 })
